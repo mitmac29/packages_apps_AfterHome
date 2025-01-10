@@ -40,7 +40,7 @@ import com.android.systemui.shared.system.ActivityManagerWrapper;
 import java.util.List;
 
 import com.android.internal.util.android.VibrationUtils;
-import com.android.internal.util.crdroid.Utils;
+import com.android.internal.util.afterlife.Utils;
 
 /**
  * Class for extending nav handle long press behavior
